@@ -1,3 +1,3 @@
-** Initial structure of a site **
+## Initial structure of a site ##
 
-- with styles
+  - with styles
